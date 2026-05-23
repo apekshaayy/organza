@@ -94,7 +94,7 @@ Organza's core hypothesis: **if both the freelancer and their client live on the
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/organza.git
+git clone https://github.com/apekshaayy/organza.git
 cd organza
 
 # Create virtual environment
